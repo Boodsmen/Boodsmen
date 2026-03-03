@@ -1,4 +1,4 @@
-# Привет, я Видадин 👋
+# Привет 👋
 
 **Python Backend Developer | Security & Infrastructure Enthusiast**
 
