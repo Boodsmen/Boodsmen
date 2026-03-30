@@ -1,4 +1,4 @@
-# Привет 👋
+# Привет, я Видадин 👋
 
 **Python Backend Developer | FastAPI | AI Automation**
 
@@ -7,9 +7,13 @@
 ### 🛠 Мой стек технологий
 
 **- Backend: Python, FastAPI, Flask**
+
 **- AI/LLM: OpenAI API, RAG, автоматизация анализа данных**
+
 **- Базы данных: PostgreSQL, SQLAlchemy, Redis**
+
 **- Инфраструктура: Docker, Linux, Nginx**
+
 **- Интеграции: Telegram API, CRM, Webhooks**
 
 ### 🚀 Ключевые проекты
