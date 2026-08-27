@@ -1,4 +1,4 @@
-# Привет, я Видадин 👋
+# Привет, я Вадим 👋
 
 **Python Backend Developer | FastAPI | AI Automation**
 
